@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  /* background-image: url('D:\satelite-react\mart\src\components\images\1586527512_rsz_pondicherry_cover_kb_920506.jpg'); */
+  background-repeat: no-repeat;
+  background-position: center ;
+  background-size: cover;
+  height: 500px;
 }
 
 code {
